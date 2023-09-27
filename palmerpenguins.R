@@ -22,4 +22,4 @@ penguins_sex <- subset(penguins, sex != "NA")
 ggplot(penguins_sex, aes(x=sex, y=flipper_length_mm, fill=species, outlier.shape = NA)) + geom_boxplot() + xlab("Sex") + ylab("Flipper Length (mm)")
 ggsave("figs/sex_bodymass_regression.png") 
 
-# 😈😈😈😈😈😈😈😈😈😈😈
+# 😈😈😈😈😈😈😈😈😈😈😈im up to no good 😈😈😈😈😈😈😈😈😈
